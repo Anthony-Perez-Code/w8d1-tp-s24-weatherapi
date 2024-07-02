@@ -14,6 +14,10 @@ http://127.0.0.1:5000/weather/<area>
 
 <area> is the location for which you seek the weather. You may enter an area based on city name or zip code.
 
+# ERROR
+
+If there is not information for the area sought, a meesage will be passed to inform the user.
+
 # EXAMPLES
 
 1. http://127.0.0.1:5000/weather/brooklyn
